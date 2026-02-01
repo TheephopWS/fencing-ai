@@ -48,11 +48,11 @@ fencing-v1/
 
 ### 1. Clone or Download the Repository
 
-```bash
-cd c:\Users\Theephop\Desktop\Projects\fencing-v1
+```
+git clone https://github.com/TheephopWS/fencing-ai.git
 ```
 
-### 2. Create a Virtual Environment (Recommended)
+### 2. Create a Virtual Environment
 
 ```powershell
 python -m venv venv
